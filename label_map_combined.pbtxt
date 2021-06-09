@@ -1,0 +1,11 @@
+item {
+    id: 1
+    name: 'knife'
+    display_name: 'Weapon'
+ }
+
+item {
+    id: 2
+    name: 'pistol'
+    display_name: 'Weapon'
+ }
